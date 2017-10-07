@@ -1,0 +1,6 @@
+# MacOS High Sierra
+.DS_Store
+
+# Webstorm
+.idea/workspace.xml
+
