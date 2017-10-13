@@ -4,3 +4,5 @@
 # Webstorm
 .idea/workspace.xml
 
+#npm
+node_mondules/**/.bin/
