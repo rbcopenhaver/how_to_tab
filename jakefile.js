@@ -2,7 +2,7 @@
 (function () {
     "use strict";
 
-    var EXPECTED_NODE_VERSION = "v9.1.0";
+    var EXPECTED_NODE_VERSION = "v9.3.0";
 
     desc("Default Build");
     task("default", ["version"], function () {
